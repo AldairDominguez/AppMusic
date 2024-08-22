@@ -29,4 +29,4 @@ Las contribuciones son bienvenidas. Por favor, crea un fork del proyecto y enví
 
 ## 📄 Licencia
 
-Este proyecto está licenciado bajo la [MIT License](LICENSE).
+Este proyecto está licenciado bajo la [MIT License](https://opensource.org/license/MIT).
