@@ -4,11 +4,7 @@ AppMusic es una aplicación de música desarrollada en C# utilizando una arquite
 
 ## 📂 Estructura del Proyecto
 
-- **Application**: Lógica principal de la aplicación.
-- **CrossCutting**: Aspectos transversales como seguridad y logging.
-- **Infrastructure**: Acceso a datos y recursos externos.
-- **Services**: Servicios de negocio y API.
-- **UI**: Interfaz de usuario.
+El proyecto se organiza en varias capas que se comunican entre sí para gestionar las operaciones de la aplicación de música. A continuación, se describen los componentes clave:
 ![Estructure](https://github.com/AldairDominguez/AppMusic/blob/master/Application/Properties/img.PNG?)
 
 ## 🚀 Tecnologías Utilizadas
