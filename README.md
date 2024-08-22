@@ -9,6 +9,7 @@ AppMusic es una aplicación de música desarrollada en C# utilizando una arquite
 - **Infrastructure**: Acceso a datos y recursos externos.
 - **Services**: Servicios de negocio y API.
 - **UI**: Interfaz de usuario.
+![Estructure](https://github.com/AldairDominguez/AppMusic/blob/master/Application/Properties/img.PNG?)
 
 ## 🚀 Tecnologías Utilizadas
 
